@@ -1,38 +1,74 @@
+> "It's not where you take things from - it's where you take them to."
+> ― Jean-Luc Godard
 
 
 ## User Interface
-  - React https://reactjs.org/docs/
-    - Redux http://redux.js.org/docs
-    - Webpack build https://webpack.js.org/concepts/
+  - React
+  	- React API https://reactjs.org/docs/
+  	  - Learning https://github.com/enaqx/awesome-react
+  	- Redux http://redux.js.org/docs
+  	  - Redux Connect https://medium.com/mofed/reduxs-mysterious-connect-function-526efe1122e4
+  	- GraphQL http://graphql.org/graphql-js/ https://www.howtographql.com/
+  	  - Apollo GraphQL  http://dev.apollodata.com/react/redux.html
 
-  - CSS https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-    - Sass http://sass-lang.com/guide
-  
-  - D3 data https://github.com/d3/d3/wiki/Gallery
+  - Build
+    - Webpack https://webpack.js.org/concepts/
+    - Fusebox http://fuse-box.org
+
+  - Libraries
+  	- Next.js Examples https://github.com/zeit/next.js/tree/master/examples
+    - Github Component  https://devarchy.com/react/
+	- Recompose https://github.com/acdlite/recompose/blob/master/docs/API.md
+
   - UI Frameworks
     - Material http://www.material-ui.com/#/
     - Bootstrap https://getbootstrap.com/docs/4.0/content/reboot/
 
-## Javascript
-  - JS ES7 https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  - CoffeeScript http://coffeescript.org/
+  - Data Visual
+  	- D3 Demos https://github.com/d3/d3/wiki/Gallery
+  	- D3 API https://github.com/d3/d3/blob/master/API.md
+
+
+## Core Languages
+  - Javascript
+  	- JS Core https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  	- ES6 https://github.com/lukehoban/es6features
+  - Syntax
+  	- CoffeeScript http://coffeescript.org/
+  	- TypeScript https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
   - Web DOM API https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
   - Regex https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+  - CSS https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+    - Sass http://sass-lang.com/guide
 
-## Node.js Server
-  - Node https://nodejs.org/dist/latest-v8.x/docs/api/http.html
-  - GraphQL http://graphql.org/graphql-js/ https://www.howtographql.com/
-  - GraphQL API  http://dev.apollodata.com/react/redux.html
-  - Express REST http://expressjs.com/en/api.html
-  - MongoDB http://mongodb.github.io/node-mongodb-native/2.2/
-  - Mongo Node http://mongoosejs.com/docs/guide.html
-  - NGINX https://www.nginx.com/resources/admin-guide/nginx-web-server/
-  - AWS https://aws.amazon.com/documentation/
+## Server
+  - Node API
+  	- Node Docs https://nodejs.org/dist/latest-v8.x/docs/api/http.html
+  	- Express REST http://expressjs.com/en/api.html
+  	- MongoDB http://mongodb.github.io/node-mongodb-native/2.2/
+  	- Mongo Node http://mongoosejs.com/docs/guide.html
 
-## Library Search
+  - Platform
+  	- Firebase https://firebase.google.com/docs/web/setup
+  	- NGINX https://www.nginx.com/resources/admin-guide/nginx-web-server/
+  	- AWS https://aws.amazon.com/documentation/
+
+  - System Admin
+    - Monitoring DB https://github.com/prometheus/docs/blob/master/content/docs/instrumenting/exporters.md
+  	- Metrics Dashboards https://grafana.com/dashboards
+  	- Panel http://docs.ajenti.org/en/latest/
+  	- Search Logs https://www.elastic.co/guide/index.html
+  	- Google Analytics https://developers.google.com/analytics/devguides/collection/analyticsjs/
+
+  - Process Management
+  	- PM2 http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/
+  	- Nodemon https://github.com/remy/nodemon
+  	- Docker https://docs.docker.com/engine/docker-overview/
+
+
+## Discover Libraries
   - Node https://www.npmjs.com/browse/depended
   - JS http://www.javascripting.com/
-    - React Components https://devarchy.com/react/
     - Lodash https://lodash.com/docs
     - Jquery http://overapi.com/jquery
   - API Search
@@ -40,14 +76,26 @@
     - OverAPI http://overapi.com/html-dom
   - Sample Kits http://yeoman.io/generators/
 
+
 ## Mobile and Runtimes
-  - Ionic one-code-base https://ionicframework.com/docs/
-  - React Native
-  - PWA guide  https://developers.google.com/web/progressive-web-apps/
+  - Ionic.js https://ionicframework.com/docs/
+  - React Native https://facebook.github.io/react-native/docs/getting-started.html
+  - PWA Guide  https://developers.google.com/web/progressive-web-apps/
   - Chrome Extension https://developer.chrome.com/extensions/api_index
 
+
 ## Developer Tools
-  - Atom https://github.com/facebook-atom/atom-ide-ui/blob/master/docs/find-references.md
-  - zsh https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview
-  - Chrome Dev Tools https://developers.google.com/web/
-  - Linux Gnome https://extensions.gnome.org/
+  - Atom
+  	- Docs http://flight-manual.atom.io/
+  	- React IDE https://github.com/facebook-atom/atom-ide-ui
+
+  - zsh/dev setup http://github.com/gulakov/awesome-zshrc
+
+  - Chrome
+  	- Chrome Dev Tools https://developers.google.com/web/
+  	- React https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+  	- Apollo https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
+  	- Redux https://github.com/gaearon/redux-devtools
+
+
+![adventure](https://i.imgur.com/i2i3leI.png)
