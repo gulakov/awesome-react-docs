@@ -1,5 +1,3 @@
-> "It's not where you take things from - it's where you take them to."
-> ― Jean-Luc Godard
 
 
 ## User Interface
@@ -96,6 +94,9 @@
   	- React https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
   	- Apollo https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
   	- Redux https://github.com/gaearon/redux-devtools
+
+> "It's not where you take things from - it's where you take them to."
+> ― Jean-Luc Godard
 
 
 ![adventure](https://i.imgur.com/i2i3leI.png)
