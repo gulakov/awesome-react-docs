@@ -97,7 +97,7 @@
   	- Docs http://flight-manual.atom.io/
   	- React IDE https://github.com/facebook-atom/atom-ide-ui
 
-  - zsh/dev setup http://github.com/gulakov/awesome-zshrc
+  - zsh/dev setup http://github.com/vtempest/developer-setup
 
   - Chrome
   	- Chrome Dev Tools https://developers.google.com/web/
@@ -107,4 +107,5 @@
 
 > "It's not where you take things from - it's where you take them to."
 > ― Jean-Luc Godard
+
 > https://i.imgur.com/i2i3leI.png
