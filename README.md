@@ -27,17 +27,18 @@
   	- D3 API https://github.com/d3/d3/blob/master/API.md
 
 
-## Core Languages
+## Languages
   - Javascript
   	- JS Core https://developer.mozilla.org/en-US/docs/Web/JavaScript
   	- ES6 https://github.com/lukehoban/es6features
-  - Syntax
-  	- CoffeeScript http://coffeescript.org/
-  	- TypeScript https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+  - CoffeScript https://coffeescript-cookbook.github.io/ 
+  - TypeScript https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
   - Web DOM API https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
   - Regex https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
   - CSS https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
     - Sass http://sass-lang.com/guide
+   
 
 ## Server
   - Node API
@@ -73,13 +74,22 @@
     - DevDocs http://devdocs.io/
     - OverAPI http://overapi.com/html-dom
   - Sample Kits http://yeoman.io/generators/
+  
 
 
-## Mobile and Runtimes
-  - Ionic.js https://ionicframework.com/docs/
-  - React Native https://facebook.github.io/react-native/docs/getting-started.html
-  - PWA Guide  https://developers.google.com/web/progressive-web-apps/
-  - Chrome Extension https://developer.chrome.com/extensions/api_index
+## Mobile  
+  - React Native
+	  - API https://facebook.github.io/react-native/docs/getting-started.html
+	  - Native Modules https://github.com/prscX/awesome-react-native-native-modules
+	  - Libraries  https://native.directory/ https://github.com/jondot/awesome-react-native 
+	  - UI https://github.com/madhavanmalolan/awesome-reactnative-ui
+		 
+  
+  - Environments 
+	  - Android https://developer.android.com/guide/components/fundamental
+	  - Ionic.js https://ionicframework.com/docs/
+	  - PWA Guide  https://developers.google.com/web/progressive-web-apps/
+	  - Chrome Extension https://developer.chrome.com/extensions/api_index
 
 
 ## Developer Tools
@@ -97,6 +107,4 @@
 
 > "It's not where you take things from - it's where you take them to."
 > ― Jean-Luc Godard
-
-
-![adventure](https://i.imgur.com/i2i3leI.png)
+> https://i.imgur.com/i2i3leI.png
