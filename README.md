@@ -37,7 +37,7 @@
   - Web DOM API https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
   - Regex https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
   - CSS https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-    - Sass http://sass-lang.com/guide
+  - Sass http://sass-lang.com/guide
    
 
 ## Server
@@ -109,6 +109,6 @@
 
 > https://i.imgur.com/i2i3leI.png
 
-> "We were promised flying keyboards -- and we got spambots and bitcoin-miner.js "
+> "We were promised flying computers, instead and we got bitcoin-miner.js "
 
 > https://i.imgur.com/4KVmaXv.jpg 
