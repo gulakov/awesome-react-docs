@@ -105,7 +105,8 @@
   	- Apollo https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
   	- Redux https://github.com/gaearon/redux-devtools
 
-> "It's not where you take things from - it's where you take them to."
-> ― Jean-Luc Godard
-
+> "It's not where you take things from - it's where you take them to." ― Jean-Luc Godard
 > https://i.imgur.com/i2i3leI.png
+
+> "We were promised flying keyboards -- and we got spambots and bitcoin-miner.js "
+> https://i.imgur.com/4KVmaXv.jpg 
